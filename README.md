@@ -12,7 +12,7 @@
 <ul>
     <li>GitHub</li>
     <li>Terminais de Comando</li>
+    <li>Git</li>
     <li>VS Code</li>
     <li>Node.js</li>
-    <li>Git</li>
 </ul>
