@@ -17,4 +17,4 @@
     <li>Node.js</li>
 </ul>
 
-<p align="start">Hello World!</p>
+<p align="center">Hello World!</p>
