@@ -20,7 +20,7 @@
 <h2 align="start">Utilizando as novas ferramentas</h2>
 
 <ol>
-    <li>Crie um novo repositório no GitHub chamado <b>hello-world</b></li>
+    <li>Crie um novo repositório no GitHub chamado <strong>hello-world</strong></li>
     <li>Na sua máquina, abra o terminal e navegue até a pasta que você criou durante as aulas.</li>
     <li>Clone esse repositório na sua máquina, na pasta que você escolheu para organizar seus estudos.</li>
     <li>Crie um arquivo .js chamado <b>hello-world.js</b> que imprima na tela a
