@@ -23,7 +23,7 @@
     <li>Crie um novo repositório no GitHub chamado <strong>hello-world</strong></li>
     <li>Na sua máquina, abra o terminal e navegue até a pasta que você criou durante as aulas.</li>
     <li>Clone esse repositório na sua máquina, na pasta que você escolheu para organizar seus estudos.</li>
-    <li>Crie um arquivo .js chamado <b>hello-world.js</b> que imprima na tela a
+    <li>Crie um arquivo .js chamado <strong>hello-world.js</strong> que imprima na tela a
         mensagem “Hello World”.</li>
     <li>Execute esse arquivo através do terminal, utilizando o node.</li>
     <li>Faça um commit para salvar esses arquivos na sua máquina.</li>
